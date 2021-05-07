@@ -9,6 +9,6 @@
   "author": "wiflore",
   "license": "MIT",
   "dependencies": {
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   }
 }
